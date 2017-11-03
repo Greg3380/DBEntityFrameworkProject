@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ConsoleApplication4 {
+namespace DBEntityFrameworkProject {
     using System;
     
     

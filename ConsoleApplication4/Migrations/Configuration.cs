@@ -1,18 +1,18 @@
-namespace ConsoleApplication4.Migrations
+namespace DBEntityFrameworkProject.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<ConsoleApplication4.ProdContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<DBEntityFrameworkProject.ProdContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(ConsoleApplication4.ProdContext context)
+        protected override void Seed(DBEntityFrameworkProject.ProdContext context)
         {
             //  This method will be called after migrating to the latest version.
 

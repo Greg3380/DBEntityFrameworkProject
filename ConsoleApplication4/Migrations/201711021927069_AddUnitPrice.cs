@@ -1,4 +1,4 @@
-namespace ConsoleApplication4.Migrations
+namespace DBEntityFrameworkProject.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
